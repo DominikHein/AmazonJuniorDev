@@ -1,0 +1,141 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "ajsd_c4m2l2_item_07_activity_opening_using_and_closing_a_connection_ungraded_lab_starter_code",
+        "directory": "C:\\Users\\domin\\OneDrive\\Documents\\AmazonJuniorDev\\Databases\\Opening-Using-Closing-Connection",
+        "workspaceDir": "C:\\Users\\domin\\OneDrive\\Documents\\AmazonJuniorDev\\Databases\\Opening-Using-Closing-Connection",
+        "sources": [
+            "C:\\Users\\domin\\OneDrive\\Documents\\AmazonJuniorDev\\Databases\\Opening-Using-Closing-Connection\\src\\main\\java"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "C:\\Users\\domin\\OneDrive\\Documents\\AmazonJuniorDev\\Databases\\Opening-Using-Closing-Connection\\target\\classes",
+            "C:\\Users\\domin\\.m2\\repository\\com\\mysql\\mysql-connector-j\\8.0.33\\mysql-connector-j-8.0.33.jar",
+            "C:\\Users\\domin\\.m2\\repository\\com\\google\\protobuf\\protobuf-java\\3.21.9\\protobuf-java-3.21.9.jar"
+        ],
+        "out": "C:\\Users\\domin\\OneDrive\\Documents\\AmazonJuniorDev\\Databases\\Opening-Using-Closing-Connection\\target",
+        "classesDir": "C:\\Users\\domin\\OneDrive\\Documents\\AmazonJuniorDev\\Databases\\Opening-Using-Closing-Connection\\target\\classes",
+        "resources": [
+            "C:\\Users\\domin\\OneDrive\\Documents\\AmazonJuniorDev\\Databases\\Opening-Using-Closing-Connection\\src\\main\\resources"
+        ],
+        "java": {
+            "options": [
+                "-g",
+                "-target",
+                "17",
+                "-source",
+                "17",
+                "-encoding",
+                "UTF-8"
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework",
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    {
+                        "args": [
+                            "-v",
+                            "-a"
+                        ],
+                        "framework": {
+                            "names": [
+                                "com.novocode.junit.JUnitFramework"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-22",
+                "options": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "com.google.protobuf",
+                    "name": "protobuf-java",
+                    "version": "3.21.9",
+                    "artifacts": [
+                        {
+                            "name": "protobuf-java",
+                            "path": "C:\\Users\\domin\\.m2\\repository\\com\\google\\protobuf\\protobuf-java\\3.21.9\\protobuf-java-3.21.9.jar"
+                        },
+                        {
+                            "name": "protobuf-java",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\domin\\.m2\\repository\\com\\google\\protobuf\\protobuf-java\\3.21.9\\protobuf-java-3.21.9-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.mysql",
+                    "name": "mysql-connector-j",
+                    "version": "8.0.33",
+                    "artifacts": [
+                        {
+                            "name": "mysql-connector-j",
+                            "path": "C:\\Users\\domin\\.m2\\repository\\com\\mysql\\mysql-connector-j\\8.0.33\\mysql-connector-j-8.0.33.jar"
+                        },
+                        {
+                            "name": "mysql-connector-j",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\domin\\.m2\\repository\\com\\mysql\\mysql-connector-j\\8.0.33\\mysql-connector-j-8.0.33-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

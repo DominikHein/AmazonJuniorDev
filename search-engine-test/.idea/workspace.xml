@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="491957fe-eb91-4e1c-9b5d-f7e5ceedc6aa" name="Changes" comment="Data Structures and Algorithms Labs">
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/C3M2L1i5 - HashMap Lab - Starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/src/ListManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C3M2L1i5 - HashMap Lab - Starter/src/WaitingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/ExceptionHandling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/CoffeeMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/Espresso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/Latte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/creating-a-zoo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/src/Dolphin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/src/Eat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/src/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/src/Swim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/src/Tiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-a-zoo/src/Walk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/DataStructureModuleLab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/src/ExamNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/src/ExamSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-structures/src/StudentInfoSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programming-with-abstraction/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programming-with-abstraction/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Search_Engine_Lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibrarySerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserInteractionLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/data/books.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/data/library.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/test/test_books.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/C3M2L4i13 - Graded Lab - Starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/src/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/src/Exam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/src/StudentInfoSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searching-and-sorting/src/Subject.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kyVQvX4cLN158oB3kjzlAvQ9ih" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjectClassInitializer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjectFileInitializer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/domin/OneDrive/Documents/AmazonJuniorDev/search-engine-test&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Search_Engine_Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C3M4L1.library.Main" />
+      <module name="Search_Engine_Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C3M4L1.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectClassInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectClassInitializer" />
+      <module name="Search_Engine_Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectFileInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectFileInitializer" />
+      <module name="Search_Engine_Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ProjectFileInitializer" />
+        <item itemvalue="Application.ProjectClassInitializer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="491957fe-eb91-4e1c-9b5d-f7e5ceedc6aa" name="Changes" comment="" />
+      <created>1724255794137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724255794137</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Data Structures and Algorithms Labs">
+      <option name="closed" value="true" />
+      <created>1736113631107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736113631107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data Structures and Algorithms Labs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Structures and Algorithms Labs" />
+  </component>
+</project>

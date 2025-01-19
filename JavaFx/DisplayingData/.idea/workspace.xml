@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7ba8be0-2978-445e-9a33-5d3ecb1e95c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/C3M2L1i5 - HashMap Lab - Starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/src/ListManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C3M2L1i5 - HashMap Lab - Starter/src/WaitingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/ExceptionHandling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/src/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/src/CoffeeMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/src/Espresso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/src/Latte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/creating-a-zoo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/src/Dolphin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/src/Eat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/src/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/src/Swim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/src/Tiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../creating-a-zoo/src/Walk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/DataStructureModuleLab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/src/ExamNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/src/ExamSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data-structures/src/StudentInfoSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-with-abstraction/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-with-abstraction/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/Search_Engine_Lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/LibraryMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/LibrarySerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/SortUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/UserInteractionLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/resources/data/books.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/resources/data/library.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../search-engine-test/src/resources/test/test_books.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/C3M2L4i13 - Graded Lab - Starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/src/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/src/Exam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/src/StudentInfoSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../searching-and-sorting/src/Subject.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2rrdzHBNMCn4dZ8wmlc4r6qdYEj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/domin/OneDrive/Documents/AmazonJuniorDev"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7ba8be0-2978-445e-9a33-5d3ecb1e95c4" name="Changes" comment="" />
+      <created>1737321389209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737321389209</updated>
+    </task>
+    <servers />
+  </component>
+</project>
